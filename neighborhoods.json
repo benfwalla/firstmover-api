@@ -1,0 +1,2090 @@
+[
+  {
+    "id": 1,
+    "name": "NYC and NJ",
+    "group": null,
+    "parent_id": 0
+  },
+  {
+    "id": 1000000,
+    "name": "New Jersey",
+    "group": null,
+    "parent_id": 1
+  },
+  {
+    "id": 200,
+    "name": "Bronx",
+    "group": "Borough",
+    "parent_id": 1
+  },
+  {
+    "id": 300,
+    "name": "Brooklyn",
+    "group": "Borough",
+    "parent_id": 1
+  },
+  {
+    "id": 100,
+    "name": "Manhattan",
+    "group": "Borough",
+    "parent_id": 1
+  },
+  {
+    "id": 800000,
+    "name": "North Jersey",
+    "group": "Borough",
+    "parent_id": 0
+  },
+  {
+    "id": 400,
+    "name": "Queens",
+    "group": "Borough",
+    "parent_id": 1
+  },
+  {
+    "id": 500,
+    "name": "Staten Island",
+    "group": "Borough",
+    "parent_id": 1
+  },
+  {
+    "id": 243,
+    "name": "Baychester",
+    "group": "Bronx",
+    "parent_id": 200
+  },
+  {
+    "id": 221,
+    "name": "Bedford Park",
+    "group": "Bronx",
+    "parent_id": 200
+  },
+  {
+    "id": 218,
+    "name": "Belmont",
+    "group": "Bronx",
+    "parent_id": 200
+  },
+  {
+    "id": 265,
+    "name": "Bronxwood",
+    "group": "Bronx",
+    "parent_id": 200
+  },
+  {
+    "id": 229,
+    "name": "Castle Hill",
+    "group": "Bronx",
+    "parent_id": 200
+  },
+  {
+    "id": 236,
+    "name": "City Island",
+    "group": "Bronx",
+    "parent_id": 200
+  },
+  {
+    "id": 208,
+    "name": "Claremont",
+    "group": "Bronx",
+    "parent_id": 207
+  },
+  {
+    "id": 234,
+    "name": "Co-op City",
+    "group": "Bronx",
+    "parent_id": 200
+  },
+  {
+    "id": 211,
+    "name": "Concourse",
+    "group": "Bronx",
+    "parent_id": 200
+  },
+  {
+    "id": 273,
+    "name": "Country Club",
+    "group": "Bronx",
+    "parent_id": 200
+  },
+  {
+    "id": 209,
+    "name": "Crotona Park East",
+    "group": "Bronx",
+    "parent_id": 200
+  },
+  {
+    "id": 216,
+    "name": "East Tremont",
+    "group": "Bronx",
+    "parent_id": 200
+  },
+  {
+    "id": 246,
+    "name": "Eastchester",
+    "group": "Bronx",
+    "parent_id": 200
+  },
+  {
+    "id": 276,
+    "name": "Edenwald",
+    "group": "Bronx",
+    "parent_id": 200
+  },
+  {
+    "id": 227,
+    "name": "Fieldston",
+    "group": "Bronx",
+    "parent_id": 225
+  },
+  {
+    "id": 214,
+    "name": "Fordham",
+    "group": "Bronx",
+    "parent_id": 200
+  },
+  {
+    "id": 210,
+    "name": "Highbridge",
+    "group": "Bronx",
+    "parent_id": 200
+  },
+  {
+    "id": 204,
+    "name": "Hunts Point",
+    "group": "Bronx",
+    "parent_id": 200
+  },
+  {
+    "id": 224,
+    "name": "Kingsbridge",
+    "group": "Bronx",
+    "parent_id": 200
+  },
+  {
+    "id": 220,
+    "name": "Kingsbridge Heights",
+    "group": "Bronx",
+    "parent_id": 224
+  },
+  {
+    "id": 241,
+    "name": "Laconia",
+    "group": "Bronx",
+    "parent_id": 200
+  },
+  {
+    "id": 267,
+    "name": "Locust Point",
+    "group": "Bronx",
+    "parent_id": 232
+  },
+  {
+    "id": 205,
+    "name": "Longwood",
+    "group": "Bronx",
+    "parent_id": 200
+  },
+  {
+    "id": 202,
+    "name": "Melrose",
+    "group": "Bronx",
+    "parent_id": 200
+  },
+  {
+    "id": 212,
+    "name": "Morris Heights",
+    "group": "Bronx",
+    "parent_id": 200
+  },
+  {
+    "id": 237,
+    "name": "Morris Park",
+    "group": "Bronx",
+    "parent_id": 200
+  },
+  {
+    "id": 207,
+    "name": "Morrisania",
+    "group": "Bronx",
+    "parent_id": 200
+  },
+  {
+    "id": 201,
+    "name": "Mott Haven",
+    "group": "Bronx",
+    "parent_id": 200
+  },
+  {
+    "id": 215,
+    "name": "Mt. Hope",
+    "group": "Bronx",
+    "parent_id": 248
+  },
+  {
+    "id": 271,
+    "name": "North New York",
+    "group": "Bronx",
+    "parent_id": 201
+  },
+  {
+    "id": 260,
+    "name": "Norwood",
+    "group": "Bronx",
+    "parent_id": 200
+  },
+  {
+    "id": 231,
+    "name": "Parkchester",
+    "group": "Bronx",
+    "parent_id": 200
+  },
+  {
+    "id": 233,
+    "name": "Pelham Bay",
+    "group": "Bronx",
+    "parent_id": 200
+  },
+  {
+    "id": 266,
+    "name": "Pelham Gardens",
+    "group": "Bronx",
+    "parent_id": 200
+  },
+  {
+    "id": 238,
+    "name": "Pelham Parkway",
+    "group": "Bronx",
+    "parent_id": 200
+  },
+  {
+    "id": 203,
+    "name": "Port Morris",
+    "group": "Bronx",
+    "parent_id": 200
+  },
+  {
+    "id": 225,
+    "name": "Riverdale",
+    "group": "Bronx",
+    "parent_id": 200
+  },
+  {
+    "id": 274,
+    "name": "Schuylerville",
+    "group": "Bronx",
+    "parent_id": 200
+  },
+  {
+    "id": 228,
+    "name": "Soundview",
+    "group": "Bronx",
+    "parent_id": 200
+  },
+  {
+    "id": 249,
+    "name": "Spuyten Duyvil",
+    "group": "Bronx",
+    "parent_id": 225
+  },
+  {
+    "id": 232,
+    "name": "Throgs Neck",
+    "group": "Bronx",
+    "parent_id": 200
+  },
+  {
+    "id": 248,
+    "name": "Tremont",
+    "group": "Bronx",
+    "parent_id": 200
+  },
+  {
+    "id": 213,
+    "name": "University Heights",
+    "group": "Bronx",
+    "parent_id": 200
+  },
+  {
+    "id": 240,
+    "name": "Van Nest",
+    "group": "Bronx",
+    "parent_id": 200
+  },
+  {
+    "id": 245,
+    "name": "Wakefield",
+    "group": "Bronx",
+    "parent_id": 200
+  },
+  {
+    "id": 219,
+    "name": "West Farms",
+    "group": "Bronx",
+    "parent_id": 216
+  },
+  {
+    "id": 235,
+    "name": "Westchester Square",
+    "group": "Bronx",
+    "parent_id": 272
+  },
+  {
+    "id": 272,
+    "name": "Westchester Village",
+    "group": "Bronx",
+    "parent_id": 200
+  },
+  {
+    "id": 242,
+    "name": "Williamsbridge",
+    "group": "Bronx",
+    "parent_id": 200
+  },
+  {
+    "id": 244,
+    "name": "Woodlawn",
+    "group": "Bronx",
+    "parent_id": 200
+  },
+  {
+    "id": 270,
+    "name": "Woodstock",
+    "group": "Bronx",
+    "parent_id": 200
+  },
+  {
+    "id": 336,
+    "name": "Bath Beach",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 331,
+    "name": "Bay Ridge",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 310,
+    "name": "Bedford-Stuyvesant",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 334,
+    "name": "Bensonhurst",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 363,
+    "name": "Bergen Beach",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 306,
+    "name": "Boerum Hill",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 338,
+    "name": "Borough Park",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 342,
+    "name": "Brighton Beach",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 305,
+    "name": "Brooklyn Heights",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 354,
+    "name": "Brownsville",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 313,
+    "name": "Bushwick",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 359,
+    "name": "Canarsie",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 321,
+    "name": "Carroll Gardens",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 316,
+    "name": "City Line",
+    "group": "Brooklyn",
+    "parent_id": 314
+  },
+  {
+    "id": 364,
+    "name": "Clinton Hill",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 322,
+    "name": "Cobble Hill",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 328,
+    "name": "Columbia St Waterfront District",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 341,
+    "name": "Coney Island",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 325,
+    "name": "Crown Heights",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 347,
+    "name": "Cypress Hills",
+    "group": "Brooklyn",
+    "parent_id": 314
+  },
+  {
+    "id": 307,
+    "name": "DUMBO",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 343,
+    "name": "Ditmas Park",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 303,
+    "name": "Downtown Brooklyn",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 332,
+    "name": "Dyker Heights",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 358,
+    "name": "East Flatbush",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 314,
+    "name": "East New York",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 373,
+    "name": "East Williamsburg",
+    "group": "Brooklyn",
+    "parent_id": 302
+  },
+  {
+    "id": 309,
+    "name": "Farragut",
+    "group": "Brooklyn",
+    "parent_id": 358
+  },
+  {
+    "id": 352,
+    "name": "Fiske Terrace",
+    "group": "Brooklyn",
+    "parent_id": 343
+  },
+  {
+    "id": 346,
+    "name": "Flatbush",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 360,
+    "name": "Flatlands",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 304,
+    "name": "Fort Greene",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 333,
+    "name": "Fort Hamilton",
+    "group": "Brooklyn",
+    "parent_id": 331
+  },
+  {
+    "id": 370,
+    "name": "Gerritsen Beach",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 320,
+    "name": "Gowanus",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 337,
+    "name": "Gravesend",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 301,
+    "name": "Greenpoint",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 367,
+    "name": "Greenwood",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 344,
+    "name": "Homecrest",
+    "group": "Brooklyn",
+    "parent_id": 349
+  },
+  {
+    "id": 340,
+    "name": "Kensington",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 366,
+    "name": "Madison",
+    "group": "Brooklyn",
+    "parent_id": 349
+  },
+  {
+    "id": 350,
+    "name": "Manhattan Beach",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 335,
+    "name": "Mapleton",
+    "group": "Brooklyn",
+    "parent_id": 338
+  },
+  {
+    "id": 361,
+    "name": "Marine Park",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 348,
+    "name": "Midwood",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 362,
+    "name": "Mill Basin",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 315,
+    "name": "New Lots",
+    "group": "Brooklyn",
+    "parent_id": 314
+  },
+  {
+    "id": 353,
+    "name": "Ocean Hill",
+    "group": "Brooklyn",
+    "parent_id": 310
+  },
+  {
+    "id": 339,
+    "name": "Ocean Parkway",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 365,
+    "name": "Old Mill Basin",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 319,
+    "name": "Park Slope",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 326,
+    "name": "Prospect Heights",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 329,
+    "name": "Prospect Lefferts Gardens",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 355,
+    "name": "Prospect Park South",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 318,
+    "name": "Red Hook",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 345,
+    "name": "Seagate",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 349,
+    "name": "Sheepshead Bay",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 317,
+    "name": "Starrett City",
+    "group": "Brooklyn",
+    "parent_id": 314
+  },
+  {
+    "id": 312,
+    "name": "Stuyvesant Heights",
+    "group": "Brooklyn",
+    "parent_id": 310
+  },
+  {
+    "id": 323,
+    "name": "Sunset Park",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 308,
+    "name": "Vinegar Hill",
+    "group": "Brooklyn",
+    "parent_id": 307
+  },
+  {
+    "id": 327,
+    "name": "Weeksville",
+    "group": "Brooklyn",
+    "parent_id": 325
+  },
+  {
+    "id": 302,
+    "name": "Williamsburg",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 324,
+    "name": "Windsor Terrace",
+    "group": "Brooklyn",
+    "parent_id": 300
+  },
+  {
+    "id": 330,
+    "name": "Wingate",
+    "group": "Brooklyn",
+    "parent_id": 358
+  },
+  {
+    "id": 102,
+    "name": "All Downtown",
+    "group": "Manhattan",
+    "parent_id": 100
+  },
+  {
+    "id": 119,
+    "name": "All Midtown",
+    "group": "Manhattan",
+    "parent_id": 100
+  },
+  {
+    "id": 139,
+    "name": "All Upper East Side",
+    "group": "Manhattan",
+    "parent_id": 100
+  },
+  {
+    "id": 144,
+    "name": "All Upper Manhattan",
+    "group": "Manhattan",
+    "parent_id": 100
+  },
+  {
+    "id": 135,
+    "name": "All Upper West Side",
+    "group": "Manhattan",
+    "parent_id": 100
+  },
+  {
+    "id": 112,
+    "name": "Battery Park City",
+    "group": "Manhattan",
+    "parent_id": 102
+  },
+  {
+    "id": 134,
+    "name": "Beekman",
+    "group": "Manhattan",
+    "parent_id": 132
+  },
+  {
+    "id": 143,
+    "name": "Carnegie Hill",
+    "group": "Manhattan",
+    "parent_id": 140
+  },
+  {
+    "id": 154,
+    "name": "Central Harlem",
+    "group": "Manhattan",
+    "parent_id": 144
+  },
+  {
+    "id": 121,
+    "name": "Central Park South",
+    "group": "Manhattan",
+    "parent_id": 119
+  },
+  {
+    "id": 115,
+    "name": "Chelsea",
+    "group": "Manhattan",
+    "parent_id": 102
+  },
+  {
+    "id": 110,
+    "name": "Chinatown",
+    "group": "Manhattan",
+    "parent_id": 102
+  },
+  {
+    "id": 103,
+    "name": "Civic Center",
+    "group": "Manhattan",
+    "parent_id": 102
+  },
+  {
+    "id": 155,
+    "name": "East Harlem",
+    "group": "Manhattan",
+    "parent_id": 144
+  },
+  {
+    "id": 117,
+    "name": "East Village",
+    "group": "Manhattan",
+    "parent_id": 102
+  },
+  {
+    "id": 104,
+    "name": "Financial District",
+    "group": "Manhattan",
+    "parent_id": 102
+  },
+  {
+    "id": 158,
+    "name": "Flatiron",
+    "group": "Manhattan",
+    "parent_id": 102
+  },
+  {
+    "id": 151,
+    "name": "Fort George",
+    "group": "Manhattan",
+    "parent_id": 149
+  },
+  {
+    "id": 114,
+    "name": "Fulton/Seaport",
+    "group": "Manhattan",
+    "parent_id": 104
+  },
+  {
+    "id": 113,
+    "name": "Gramercy Park",
+    "group": "Manhattan",
+    "parent_id": 102
+  },
+  {
+    "id": 116,
+    "name": "Greenwich Village",
+    "group": "Manhattan",
+    "parent_id": 102
+  },
+  {
+    "id": 148,
+    "name": "Hamilton Heights",
+    "group": "Manhattan",
+    "parent_id": 144
+  },
+  {
+    "id": 152,
+    "name": "Hell's Kitchen",
+    "group": "Manhattan",
+    "parent_id": 124
+  },
+  {
+    "id": 145,
+    "name": "Hudson Heights",
+    "group": "Manhattan",
+    "parent_id": 149
+  },
+  {
+    "id": 166,
+    "name": "Hudson Square",
+    "group": "Manhattan",
+    "parent_id": 107
+  },
+  {
+    "id": 146,
+    "name": "Hudson Yards",
+    "group": "Manhattan",
+    "parent_id": 124
+  },
+  {
+    "id": 150,
+    "name": "Inwood",
+    "group": "Manhattan",
+    "parent_id": 144
+  },
+  {
+    "id": 133,
+    "name": "Kips Bay",
+    "group": "Manhattan",
+    "parent_id": 123
+  },
+  {
+    "id": 141,
+    "name": "Lenox Hill",
+    "group": "Manhattan",
+    "parent_id": 140
+  },
+  {
+    "id": 136,
+    "name": "Lincoln Square",
+    "group": "Manhattan",
+    "parent_id": 137
+  },
+  {
+    "id": 108,
+    "name": "Little Italy",
+    "group": "Manhattan",
+    "parent_id": 102
+  },
+  {
+    "id": 109,
+    "name": "Lower East Side",
+    "group": "Manhattan",
+    "parent_id": 102
+  },
+  {
+    "id": 138,
+    "name": "Manhattan Valley",
+    "group": "Manhattan",
+    "parent_id": 137
+  },
+  {
+    "id": 161,
+    "name": "Manhattanville",
+    "group": "Manhattan",
+    "parent_id": 153
+  },
+  {
+    "id": 226,
+    "name": "Marble Hill",
+    "group": "Manhattan",
+    "parent_id": 144
+  },
+  {
+    "id": 120,
+    "name": "Midtown",
+    "group": "Manhattan",
+    "parent_id": 119
+  },
+  {
+    "id": 123,
+    "name": "Midtown East",
+    "group": "Manhattan",
+    "parent_id": 119
+  },
+  {
+    "id": 122,
+    "name": "Midtown South",
+    "group": "Manhattan",
+    "parent_id": 119
+  },
+  {
+    "id": 124,
+    "name": "Midtown West",
+    "group": "Manhattan",
+    "parent_id": 119
+  },
+  {
+    "id": 147,
+    "name": "Morningside Heights",
+    "group": "Manhattan",
+    "parent_id": 144
+  },
+  {
+    "id": 130,
+    "name": "Murray Hill",
+    "group": "Manhattan",
+    "parent_id": 123
+  },
+  {
+    "id": 159,
+    "name": "NoMad",
+    "group": "Manhattan",
+    "parent_id": 158
+  },
+  {
+    "id": 118,
+    "name": "Noho",
+    "group": "Manhattan",
+    "parent_id": 116
+  },
+  {
+    "id": 162,
+    "name": "Nolita",
+    "group": "Manhattan",
+    "parent_id": 102
+  },
+  {
+    "id": 101,
+    "name": "Roosevelt Island",
+    "group": "Manhattan",
+    "parent_id": 100
+  },
+  {
+    "id": 107,
+    "name": "Soho",
+    "group": "Manhattan",
+    "parent_id": 102
+  },
+  {
+    "id": 165,
+    "name": "South Harlem",
+    "group": "Manhattan",
+    "parent_id": 154
+  },
+  {
+    "id": 106,
+    "name": "Stuyvesant Town/PCV",
+    "group": "Manhattan",
+    "parent_id": 102
+  },
+  {
+    "id": 131,
+    "name": "Sutton Place",
+    "group": "Manhattan",
+    "parent_id": 123
+  },
+  {
+    "id": 105,
+    "name": "Tribeca",
+    "group": "Manhattan",
+    "parent_id": 102
+  },
+  {
+    "id": 132,
+    "name": "Turtle Bay",
+    "group": "Manhattan",
+    "parent_id": 123
+  },
+  {
+    "id": 111,
+    "name": "Two Bridges",
+    "group": "Manhattan",
+    "parent_id": 109
+  },
+  {
+    "id": 164,
+    "name": "Upper Carnegie Hill",
+    "group": "Manhattan",
+    "parent_id": 140
+  },
+  {
+    "id": 140,
+    "name": "Upper East Side",
+    "group": "Manhattan",
+    "parent_id": 139
+  },
+  {
+    "id": 137,
+    "name": "Upper West Side",
+    "group": "Manhattan",
+    "parent_id": 135
+  },
+  {
+    "id": 149,
+    "name": "Washington Heights",
+    "group": "Manhattan",
+    "parent_id": 144
+  },
+  {
+    "id": 163,
+    "name": "West Chelsea",
+    "group": "Manhattan",
+    "parent_id": 115
+  },
+  {
+    "id": 153,
+    "name": "West Harlem",
+    "group": "Manhattan",
+    "parent_id": 144
+  },
+  {
+    "id": 157,
+    "name": "West Village",
+    "group": "Manhattan",
+    "parent_id": 102
+  },
+  {
+    "id": 142,
+    "name": "Yorkville",
+    "group": "Manhattan",
+    "parent_id": 140
+  },
+  {
+    "id": 1003000,
+    "name": "Bayonne",
+    "group": "New Jersey",
+    "parent_id": 1000000
+  },
+  {
+    "id": 1117008,
+    "name": "Bergen/Lafayette",
+    "group": "New Jersey",
+    "parent_id": 1001000
+  },
+  {
+    "id": 856000,
+    "name": "Cliffside Park",
+    "group": "New Jersey",
+    "parent_id": 1000000
+  },
+  {
+    "id": 1005000,
+    "name": "East Newark",
+    "group": "New Jersey",
+    "parent_id": 1000000
+  },
+  {
+    "id": 862000,
+    "name": "Edgewater",
+    "group": "New Jersey",
+    "parent_id": 1000000
+  },
+  {
+    "id": 869000,
+    "name": "Fort Lee",
+    "group": "New Jersey",
+    "parent_id": 1000000
+  },
+  {
+    "id": 1009000,
+    "name": "Guttenberg",
+    "group": "New Jersey",
+    "parent_id": 1000000
+  },
+  {
+    "id": 1010000,
+    "name": "Harrison",
+    "group": "New Jersey",
+    "parent_id": 1000000
+  },
+  {
+    "id": 1001150,
+    "name": "Historic Downtown",
+    "group": "New Jersey",
+    "parent_id": 1001000
+  },
+  {
+    "id": 1004000,
+    "name": "Hoboken",
+    "group": "New Jersey",
+    "parent_id": 1000000
+  },
+  {
+    "id": 1001000,
+    "name": "Jersey City",
+    "group": "New Jersey",
+    "parent_id": 1000000
+  },
+  {
+    "id": 1001600,
+    "name": "Journal Square",
+    "group": "New Jersey",
+    "parent_id": 1001000
+  },
+  {
+    "id": 1011000,
+    "name": "Kearny",
+    "group": "New Jersey",
+    "parent_id": 1000000
+  },
+  {
+    "id": 1001800,
+    "name": "McGinley Square",
+    "group": "New Jersey",
+    "parent_id": 1001000
+  },
+  {
+    "id": 1117007,
+    "name": "Newport",
+    "group": "New Jersey",
+    "parent_id": 1001000
+  },
+  {
+    "id": 1007000,
+    "name": "North Bergen",
+    "group": "New Jersey",
+    "parent_id": 1000000
+  },
+  {
+    "id": 1001270,
+    "name": "Paulus Hook",
+    "group": "New Jersey",
+    "parent_id": 1001250
+  },
+  {
+    "id": 1012000,
+    "name": "Secaucus",
+    "group": "New Jersey",
+    "parent_id": 1000000
+  },
+  {
+    "id": 1001400,
+    "name": "The Heights",
+    "group": "New Jersey",
+    "parent_id": 1001000
+  },
+  {
+    "id": 1006000,
+    "name": "Union City",
+    "group": "New Jersey",
+    "parent_id": 1000000
+  },
+  {
+    "id": 1001250,
+    "name": "Waterfront",
+    "group": "New Jersey",
+    "parent_id": 1001000
+  },
+  {
+    "id": 1008000,
+    "name": "Weehawken",
+    "group": "New Jersey",
+    "parent_id": 1000000
+  },
+  {
+    "id": 1013000,
+    "name": "West New York",
+    "group": "New Jersey",
+    "parent_id": 1000000
+  },
+  {
+    "id": 1002100,
+    "name": "West Side",
+    "group": "New Jersey",
+    "parent_id": 1001000
+  },
+  {
+    "id": 448,
+    "name": "Arverne",
+    "group": "Queens",
+    "parent_id": 477
+  },
+  {
+    "id": 401,
+    "name": "Astoria",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 431,
+    "name": "Auburndale",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 480,
+    "name": "Bay Terrace (Queens)",
+    "group": "Queens",
+    "parent_id": 428
+  },
+  {
+    "id": 428,
+    "name": "Bayside",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 462,
+    "name": "Bayswater",
+    "group": "Queens",
+    "parent_id": 477
+  },
+  {
+    "id": 461,
+    "name": "Beechhurst",
+    "group": "Queens",
+    "parent_id": 417
+  },
+  {
+    "id": 463,
+    "name": "Belle Harbor",
+    "group": "Queens",
+    "parent_id": 477
+  },
+  {
+    "id": 443,
+    "name": "Bellerose",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 464,
+    "name": "Breezy Point",
+    "group": "Queens",
+    "parent_id": 477
+  },
+  {
+    "id": 446,
+    "name": "Briarwood",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 441,
+    "name": "Broad Channel",
+    "group": "Queens",
+    "parent_id": 477
+  },
+  {
+    "id": 479,
+    "name": "Brookville",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 437,
+    "name": "Cambria Heights",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 459,
+    "name": "Clearview",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 418,
+    "name": "College Point",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 409,
+    "name": "Corona",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 474,
+    "name": "Ditmars-Steinway",
+    "group": "Queens",
+    "parent_id": 401
+  },
+  {
+    "id": 429,
+    "name": "Douglaston",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 406,
+    "name": "East Elmhurst",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 456,
+    "name": "East Flushing",
+    "group": "Queens",
+    "parent_id": 416
+  },
+  {
+    "id": 466,
+    "name": "Edgemere",
+    "group": "Queens",
+    "parent_id": 477
+  },
+  {
+    "id": 408,
+    "name": "Elmhurst",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 440,
+    "name": "Far Rockaway",
+    "group": "Queens",
+    "parent_id": 477
+  },
+  {
+    "id": 442,
+    "name": "Floral Park",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 416,
+    "name": "Flushing",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 415,
+    "name": "Forest Hills",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 419,
+    "name": "Fresh Meadows",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 439,
+    "name": "Glen Oaks",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 413,
+    "name": "Glendale",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 467,
+    "name": "Hamilton Beach",
+    "group": "Queens",
+    "parent_id": 425
+  },
+  {
+    "id": 473,
+    "name": "Hammels",
+    "group": "Queens",
+    "parent_id": 477
+  },
+  {
+    "id": 453,
+    "name": "Hillcrest",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 434,
+    "name": "Hollis",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 425,
+    "name": "Howard Beach",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 478,
+    "name": "Hunters Point",
+    "group": "Queens",
+    "parent_id": 402
+  },
+  {
+    "id": 405,
+    "name": "Jackson Heights",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 432,
+    "name": "Jamaica",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 447,
+    "name": "Jamaica Estates",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 421,
+    "name": "Jamaica Hills",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 424,
+    "name": "Kew Gardens",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 420,
+    "name": "Kew Gardens Hills",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 436,
+    "name": "Laurelton",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 470,
+    "name": "Lindenwood",
+    "group": "Queens",
+    "parent_id": 425
+  },
+  {
+    "id": 430,
+    "name": "Little Neck",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 402,
+    "name": "Long Island City",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 460,
+    "name": "Malba",
+    "group": "Queens",
+    "parent_id": 417
+  },
+  {
+    "id": 410,
+    "name": "Maspeth",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 411,
+    "name": "Middle Village",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 457,
+    "name": "Murray Hill (Queens)",
+    "group": "Queens",
+    "parent_id": 416
+  },
+  {
+    "id": 465,
+    "name": "Neponsit",
+    "group": "Queens",
+    "parent_id": 477
+  },
+  {
+    "id": 449,
+    "name": "New Hyde Park",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 407,
+    "name": "North Corona",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 451,
+    "name": "Oakland Gardens",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 471,
+    "name": "Old Howard Beach",
+    "group": "Queens",
+    "parent_id": 425
+  },
+  {
+    "id": 426,
+    "name": "Ozone Park",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 454,
+    "name": "Pomonok",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 438,
+    "name": "Queens Village",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 468,
+    "name": "Ramblersville",
+    "group": "Queens",
+    "parent_id": 425
+  },
+  {
+    "id": 414,
+    "name": "Rego Park",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 423,
+    "name": "Richmond Hill",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 412,
+    "name": "Ridgewood",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 477,
+    "name": "Rockaway All",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 452,
+    "name": "Rockaway Park",
+    "group": "Queens",
+    "parent_id": 477
+  },
+  {
+    "id": 469,
+    "name": "Rockwood Park",
+    "group": "Queens",
+    "parent_id": 425
+  },
+  {
+    "id": 444,
+    "name": "Rosedale",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 433,
+    "name": "South Jamaica",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 427,
+    "name": "South Ozone Park",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 450,
+    "name": "South Richmond Hill",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 445,
+    "name": "Springfield Gardens",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 435,
+    "name": "St. Albans",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 403,
+    "name": "Sunnyside",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 455,
+    "name": "Utopia",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 417,
+    "name": "Whitestone",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 422,
+    "name": "Woodhaven",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 404,
+    "name": "Woodside",
+    "group": "Queens",
+    "parent_id": 400
+  },
+  {
+    "id": 507,
+    "name": "Annadale",
+    "group": "Staten Island",
+    "parent_id": 502
+  },
+  {
+    "id": 508,
+    "name": "Arden Heights",
+    "group": "Staten Island",
+    "parent_id": 502
+  },
+  {
+    "id": 509,
+    "name": "Arlington",
+    "group": "Staten Island",
+    "parent_id": 501
+  },
+  {
+    "id": 510,
+    "name": "Arrochar",
+    "group": "Staten Island",
+    "parent_id": 503
+  },
+  {
+    "id": 511,
+    "name": "Bay Terrace",
+    "group": "Staten Island",
+    "parent_id": 503
+  },
+  {
+    "id": 512,
+    "name": "Bloomfield",
+    "group": "Staten Island",
+    "parent_id": 504
+  },
+  {
+    "id": 514,
+    "name": "Bulls Head",
+    "group": "Staten Island",
+    "parent_id": 505
+  },
+  {
+    "id": 516,
+    "name": "Castleton Corners",
+    "group": "Staten Island",
+    "parent_id": 505
+  },
+  {
+    "id": 517,
+    "name": "Charleston",
+    "group": "Staten Island",
+    "parent_id": 502
+  },
+  {
+    "id": 518,
+    "name": "Chelsea (Staten Island)",
+    "group": "Staten Island",
+    "parent_id": 504
+  },
+  {
+    "id": 519,
+    "name": "Clifton",
+    "group": "Staten Island",
+    "parent_id": 501
+  },
+  {
+    "id": 522,
+    "name": "Dongan Hills",
+    "group": "Staten Island",
+    "parent_id": 503
+  },
+  {
+    "id": 503,
+    "name": "East Shore",
+    "group": "Staten Island",
+    "parent_id": 500
+  },
+  {
+    "id": 523,
+    "name": "Egbertville",
+    "group": "Staten Island",
+    "parent_id": 503
+  },
+  {
+    "id": 524,
+    "name": "Elm Park",
+    "group": "Staten Island",
+    "parent_id": 501
+  },
+  {
+    "id": 525,
+    "name": "Eltingville",
+    "group": "Staten Island",
+    "parent_id": 502
+  },
+  {
+    "id": 526,
+    "name": "Emerson Hill",
+    "group": "Staten Island",
+    "parent_id": 503
+  },
+  {
+    "id": 527,
+    "name": "Fort Wadsworth",
+    "group": "Staten Island",
+    "parent_id": 503
+  },
+  {
+    "id": 528,
+    "name": "Graniteville",
+    "group": "Staten Island",
+    "parent_id": 505
+  },
+  {
+    "id": 529,
+    "name": "Grant City",
+    "group": "Staten Island",
+    "parent_id": 503
+  },
+  {
+    "id": 530,
+    "name": "Grasmere",
+    "group": "Staten Island",
+    "parent_id": 503
+  },
+  {
+    "id": 531,
+    "name": "Great Kills",
+    "group": "Staten Island",
+    "parent_id": 502
+  },
+  {
+    "id": 532,
+    "name": "Greenridge",
+    "group": "Staten Island",
+    "parent_id": 502
+  },
+  {
+    "id": 533,
+    "name": "Grymes Hill",
+    "group": "Staten Island",
+    "parent_id": 501
+  },
+  {
+    "id": 537,
+    "name": "Howland Hook",
+    "group": "Staten Island",
+    "parent_id": 501
+  },
+  {
+    "id": 538,
+    "name": "Huguenot",
+    "group": "Staten Island",
+    "parent_id": 502
+  },
+  {
+    "id": 540,
+    "name": "Lighthouse Hill",
+    "group": "Staten Island",
+    "parent_id": 503
+  },
+  {
+    "id": 543,
+    "name": "Manor Heights",
+    "group": "Staten Island",
+    "parent_id": 505
+  },
+  {
+    "id": 544,
+    "name": "Mariners Harbor",
+    "group": "Staten Island",
+    "parent_id": 501
+  },
+  {
+    "id": 545,
+    "name": "Meiers Corners",
+    "group": "Staten Island",
+    "parent_id": 505
+  },
+  {
+    "id": 505,
+    "name": "Mid-Island",
+    "group": "Staten Island",
+    "parent_id": 500
+  },
+  {
+    "id": 546,
+    "name": "Midland Beach",
+    "group": "Staten Island",
+    "parent_id": 503
+  },
+  {
+    "id": 547,
+    "name": "New Brighton",
+    "group": "Staten Island",
+    "parent_id": 501
+  },
+  {
+    "id": 548,
+    "name": "New Dorp",
+    "group": "Staten Island",
+    "parent_id": 503
+  },
+  {
+    "id": 591,
+    "name": "New Dorp Beach",
+    "group": "Staten Island",
+    "parent_id": 503
+  },
+  {
+    "id": 549,
+    "name": "New Springville",
+    "group": "Staten Island",
+    "parent_id": 505
+  },
+  {
+    "id": 501,
+    "name": "North Shore",
+    "group": "Staten Island",
+    "parent_id": 500
+  },
+  {
+    "id": 550,
+    "name": "Oakwood",
+    "group": "Staten Island",
+    "parent_id": 503
+  },
+  {
+    "id": 592,
+    "name": "Oakwood Beach",
+    "group": "Staten Island",
+    "parent_id": 503
+  },
+  {
+    "id": 551,
+    "name": "Ocean Breeze",
+    "group": "Staten Island",
+    "parent_id": 503
+  },
+  {
+    "id": 553,
+    "name": "Park Hill",
+    "group": "Staten Island",
+    "parent_id": 501
+  },
+  {
+    "id": 554,
+    "name": "Pleasant Plains",
+    "group": "Staten Island",
+    "parent_id": 502
+  },
+  {
+    "id": 556,
+    "name": "Port Richmond",
+    "group": "Staten Island",
+    "parent_id": 501
+  },
+  {
+    "id": 557,
+    "name": "Princes Bay",
+    "group": "Staten Island",
+    "parent_id": 502
+  },
+  {
+    "id": 560,
+    "name": "Richmond Valley",
+    "group": "Staten Island",
+    "parent_id": 502
+  },
+  {
+    "id": 561,
+    "name": "Richmondtown",
+    "group": "Staten Island",
+    "parent_id": 503
+  },
+  {
+    "id": 562,
+    "name": "Rosebank",
+    "group": "Staten Island",
+    "parent_id": 501
+  },
+  {
+    "id": 563,
+    "name": "Rossville",
+    "group": "Staten Island",
+    "parent_id": 502
+  },
+  {
+    "id": 569,
+    "name": "Saint George",
+    "group": "Staten Island",
+    "parent_id": 501
+  },
+  {
+    "id": 565,
+    "name": "Shore Acres",
+    "group": "Staten Island",
+    "parent_id": 501
+  },
+  {
+    "id": 566,
+    "name": "Silver Lake",
+    "group": "Staten Island",
+    "parent_id": 501
+  },
+  {
+    "id": 568,
+    "name": "South Beach",
+    "group": "Staten Island",
+    "parent_id": 503
+  },
+  {
+    "id": 502,
+    "name": "South Shore",
+    "group": "Staten Island",
+    "parent_id": 500
+  },
+  {
+    "id": 571,
+    "name": "Stapleton",
+    "group": "Staten Island",
+    "parent_id": 501
+  },
+  {
+    "id": 573,
+    "name": "Sunnyside (Staten Island)",
+    "group": "Staten Island",
+    "parent_id": 505
+  },
+  {
+    "id": 575,
+    "name": "Todt Hill",
+    "group": "Staten Island",
+    "parent_id": 503
+  },
+  {
+    "id": 576,
+    "name": "Tompkinsville",
+    "group": "Staten Island",
+    "parent_id": 501
+  },
+  {
+    "id": 577,
+    "name": "Tottenville",
+    "group": "Staten Island",
+    "parent_id": 502
+  },
+  {
+    "id": 578,
+    "name": "Travis",
+    "group": "Staten Island",
+    "parent_id": 504
+  },
+  {
+    "id": 580,
+    "name": "West Brighton",
+    "group": "Staten Island",
+    "parent_id": 501
+  },
+  {
+    "id": 504,
+    "name": "West Shore",
+    "group": "Staten Island",
+    "parent_id": 500
+  },
+  {
+    "id": 582,
+    "name": "Westerleigh",
+    "group": "Staten Island",
+    "parent_id": 505
+  },
+  {
+    "id": 583,
+    "name": "Willowbrook",
+    "group": "Staten Island",
+    "parent_id": 505
+  },
+  {
+    "id": 584,
+    "name": "Woodrow",
+    "group": "Staten Island",
+    "parent_id": 502
+  }
+]
