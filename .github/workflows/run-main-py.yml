@@ -32,7 +32,6 @@ jobs:
         pip install -r requirements.txt
 
     - name: Run main.py
-        id: script
         env:
           SCRAPER_API_KEY: ${{ secrets.SCRAPER_API_KEY }}
           DB_USERNAME: ${{ secrets.DB_USERNAME }}
