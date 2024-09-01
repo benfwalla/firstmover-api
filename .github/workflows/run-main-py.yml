@@ -32,4 +32,13 @@ jobs:
         pip install -r requirements.txt
 
     - name: Run main.py
-      run: python -u main.py
+        id: script
+        env:
+          SCRAPER_API_KEY: ${{ secrets.SCRAPER_API_KEY }}
+          DB_USERNAME: ${{ secrets.DB_USERNAME }}
+          DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
+          DB_HOST: ${{ secrets.DB_HOST }}
+          DB_NAME: ${{ secrets.DB_NAME }}
+        run: |
+          python3 -u main.py
+        shell: bash
