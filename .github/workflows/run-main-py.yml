@@ -1,4 +1,4 @@
-name: Run main.py
+name: Check New Listings
 
 on:
   schedule:
