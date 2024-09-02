@@ -1,9 +1,10 @@
 name: Check New Listings
 
 on:
-  schedule:
-    - cron: '*/6 * * * *'
   workflow_dispatch:
+  repository_dispatch:
+  types:
+    - webhook_check_new_listings
 
 jobs:
   run-script:
