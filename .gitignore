@@ -8,4 +8,4 @@ __pycache__/
 # Ignore environment variable files
 .env
 
-FirstMover Firebase Admin.json
+firebase-admin.json
