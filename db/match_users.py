@@ -39,21 +39,3 @@ def get_matching_users(neighborhood, price, bedrooms, bathrooms, include_no_fee)
     results = query.filter(*conditions).all()
     return results
 
-
-# Test the function with parameters
-if __name__ == "__main__":
-    neighborhood = 'Kips Bay'
-    price = 3800
-    bedrooms = 2.0
-    bathrooms = 1.5
-    include_no_fee = False
-
-    results = get_matching_users(
-        neighborhood,
-        price,
-        bedrooms,
-        bathrooms,
-        include_no_fee
-    )
-
-    print(results)
