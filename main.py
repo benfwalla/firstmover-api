@@ -1,6 +1,5 @@
-from datetime import datetime
 from check_apartments import check_apartments, get_listing_days_on_market
-from db import upsert_listings
+from db import *
 
 if __name__ == "__main__":
 
