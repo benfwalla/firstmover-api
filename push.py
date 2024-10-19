@@ -9,19 +9,32 @@ cred = credentials.Certificate('firebase-admin.json')
 firebase_admin.initialize_app(cred)
 
 
-def send_push_notification(fcm_token, title, body):
-    # Define the message
-    message = messaging.Message(
+def send_push_notification(fcm_tokens, title, body):
+    """
+    Send a push notification to multiple FCM tokens.
+
+    Args:
+        fcm_tokens (List[str]): A list of FCM registration tokens.
+        title (str): The title of the notification.
+        body (str): The body of the notification.
+
+    Returns:
+        response (messaging.BatchResponse): A response object containing the results of the send
+            operation.
+
+    Raises:
+        Exception: If an error occurs while sending the message.
+    """
+    message = messaging.MulticastMessage(
         notification=messaging.Notification(
             title=title,
             body=body,
         ),
-        token=fcm_token,
+        tokens=fcm_tokens,
     )
 
-    # Send the message
     try:
-        response = messaging.send(message)
+        response = messaging.send_each_for_multicast(message)
         print(f"Successfully sent message: {response}")
     except Exception as e:
         print(f"Failed to send message: {str(e)}")
@@ -29,4 +42,4 @@ def send_push_notification(fcm_token, title, body):
 
 if __name__ == "__main__":
     ben_fcm_token = os.getenv("ben_fcm_token")
-    send_push_notification(ben_fcm_token, "Hello!", "This is a push notification.")
+    send_push_notification([ben_fcm_token], "Hello!", "This is a push notification.")
